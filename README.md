@@ -60,7 +60,7 @@ Here are a few things I’ve worked on (check pinned repos for more!):
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/krishnanjalimandhapalle)  
-- 📧 Email: mandapallikrishnanjali@email.com
+- 📧 Gmail: mandapallikrishnanjali@gmail.com
 
 ---
 
