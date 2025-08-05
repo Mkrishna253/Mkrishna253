@@ -64,4 +64,4 @@ Here are a few things I’ve worked on (check pinned repos for more!):
 
 ---
 
-*“The best way to learn data science is to build projects, break things, and keep iterating.”*
+*“Learning is proportional to Growing”*
