@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Krishnanjali Mandhapalle!
 
-Welcome to my GitHub profile! I'm a passionate Data Science enthusiast skilled in **Python**, **Machine Learning**, and **AI-powered applications**. I enjoy turning data into actionable insights and building intelligent systems that solve real-world problems.
+Welcome to my GitHub profile! I'm a passionate Full stack, Data Science enthusiast skilled in **Python**, **Machine Learning**, and **AI-powered applications**. I enjoy turning data into actionable insights and building intelligent systems that solve real-world problems.
 
 ---
 
