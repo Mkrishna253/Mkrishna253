@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I'm a passionate Data Science enthusiast skilled i
 
 ## 📌 Projects
 
-Here are a few things I’ve worked on (check pinned repos for more!):
+Here are a few things I’ve worked on:
 
 - 💬 **RAG-Powered Chatbot** – Intelligent chatbot using LLM + Vector DB (FastAPI, Ollama, LangChain)  
 - 📈 **Exploratory Data Analysis Dashboards** – Interactive visualizations and insights  
