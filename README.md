@@ -53,7 +53,9 @@ Here are a few things I’ve worked on (check pinned repos for more!):
 
 - 💬 **RAG-Powered Chatbot** – Intelligent chatbot using LLM + Vector DB (FastAPI, Ollama, LangChain)  
 - 📈 **Exploratory Data Analysis Dashboards** – Interactive visualizations and insights  
-- 🤖 **ML Model Deployments** – APIs for classification, regression, and NLP models  
+- 🤖 **ML Model Deployments** – APIs for classification, regression, and NLP models
+- 🧾 **Resume Parser** – LLM-based resume extractor for structured candidate data.  
+- 🎨 **Design Collection** – Django app for managing embroidery designs with CRUD & analytics.  
 
 ---
 
