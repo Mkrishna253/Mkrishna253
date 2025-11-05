@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Data Science enthusiast skilled i
 - 📊 Data Science & Machine Learning
 - 🤖 Generative AI & RAG Pipelines
 - 🔎 NLP, Transformers, Embedding Models
-- 🧱 MLOps | FastAPI | LangChain | LlamaIndex
+- 🧱 FastAPI | LangChain | LlamaIndex
 - 💡 Currently building AI-powered apps using **LLMs**, **Vector DBs**, and **Open Source Models**
 
 ---
