@@ -51,12 +51,12 @@ Welcome to my GitHub profile! I'm a passionate Full stack, Data Science enthusia
 
 Here are a few things I’ve worked on:
 
+- 🎨 **Design Collection** – Django app for managing embroidery designs with CRUD & analytics.  
+- 🧾 **Resume Parser** – LLM-based resume extractor for structured candidate data. 
 - 💬 **RAG-Powered Chatbot** – Intelligent chatbot using LLM + Vector DB (FastAPI, Ollama, LangChain)  
 - 📈 **Exploratory Data Analysis Dashboards** – Interactive visualizations and insights  
-- 🤖 **ML Model Deployments** – APIs for classification, regression, and NLP models
-- 🧾 **Resume Parser** – LLM-based resume extractor for structured candidate data.  
-- 🎨 **Design Collection** – Django app for managing embroidery designs with CRUD & analytics.  
-
+- 🤖 **QA Chatbot with Groq** – Bot that assisst you for responding to user queries/chats fastly and effectively
+ 
 ---
 
 ## 📫 Let's Connect
