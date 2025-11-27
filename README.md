@@ -54,8 +54,8 @@ Here are a few things I’ve worked on:
 - 🎨 **Design Collection** – Django app for managing embroidery designs with CRUD & analytics.  
 - 🧾 **Resume Parser** – LLM-based resume extractor for structured candidate data. 
 - 💬 **RAG-Powered Chatbot** – Intelligent chatbot using LLM + Vector DB (FastAPI, Ollama, LangChain)  
-- 📈 **Exploratory Data Analysis Dashboards** – Interactive visualizations and insights  
-- 🤖 **QA Chatbot with Groq** – Bot that assisst you for responding to user queries/chats fastly and effectively
+- 📈 **Exploratory Data Analysis Dashboards** – Interactive visualizations and insights.  
+- 🤖 **QA Chatbot with Groq** – Bot that responds to user queries/chats very fast and effectively.
  
 ---
 
