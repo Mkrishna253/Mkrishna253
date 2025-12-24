@@ -16,9 +16,6 @@ Welcome to my GitHub profile! I'm a passionate Full stack, Data Science enthusia
 ---
 
 ## 🛠️ Tech Stack
-
-## 🛠️ Languages & Tools
-
 ### Programming & Data
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,19 +41,6 @@ Welcome to my GitHub profile! I'm a passionate Full stack, Data Science enthusia
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
----
-
-## 📌 Projects
-
-Here are a few things I’ve worked on:
-
-- 🎨 **Design Collection** – Django app for managing embroidery designs with CRUD & analytics.  
-- 🧾 **Resume Parser** – LLM-based resume extractor for structured candidate data. 
-- 💬 **RAG-Powered Chatbot** – Intelligent chatbot using LLM + Vector DB (FastAPI, Ollama, LangChain)  
-- 📈 **Exploratory Data Analysis Dashboards** – Interactive visualizations and insights.  
-- 🤖 **QA Chatbot with Groq** – Bot that responds to user queries/chats very fast and effectively.
- 
 ---
 
 ## 📫 Let's Connect
@@ -66,4 +50,4 @@ Here are a few things I’ve worked on:
 
 ---
 
-*“Learning is proportional to Growing”*
+*“Learning is proportional to Growing...”*
