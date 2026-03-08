@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm a passionate Full stack, Data Science enthusia
 
 ## 🧠 What I Do
 
-- 🐍 Python Developer
+- 🐍 Python Programming
 - 📊 Data Science & Machine Learning
 - 🤖 Generative AI & RAG Pipelines
 - 🔎 NLP, Transformers, Embedding Models
-- 🧱 FastAPI | LangChain | LlamaIndex
+- 🧱 FastAPI | LangChain
 - 💡 Currently building AI-powered apps using **LLMs**, **Vector DBs**, and **Open Source Models**
 
 ---
