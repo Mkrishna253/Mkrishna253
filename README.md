@@ -42,7 +42,6 @@ I'm a passionate **Full Stack Developer, Data Engineer, and Data Science enthusi
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="70" alt="Machine Learning"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="70" alt="Neural Network"/>
 </p>
 
 ---
