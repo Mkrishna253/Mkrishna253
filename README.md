@@ -45,43 +45,6 @@ I'm a passionate **Full Stack Developer, Data Engineer, and Data Science enthusi
   <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="70" alt="Neural Network"/>
 </p>
 
-
-### 💻 Languages & Frameworks
-
-- 🐍 **Python**
-- ⚡ **FastAPI**
-- 🗃️ **SQL**
-- 🔥 **PySpark**
-
-### 📊 Data Engineering & Analytics
-
-- 🔥 **Apache Spark**
-- 🧱 **Databricks**
-- 🔄 **ETL / ELT**
-- 📦 **Data Pipelines**
-
-### 🤖 AI & Machine Learning
-
-- 🧠 **Machine Learning**
-- 🤖 **Generative AI**
-- 🔎 **RAG**
-- 📝 **NLP**
-- 🔬 **Transformers**
-- 🧠 **LLMs**
-- 🔢 **Vector Databases**
-- 🦜 **LangChain**
-
-### 🗄️ Databases
-
-- 🐘 **PostgreSQL**
-- 🗄️ **SQL Server**
-
-### 🐳 DevOps & Tools
-
-- 🌿 **Git**
-- 🐙 **GitHub**
-- 🐳 **Docker**
-
 ---
 
 ## 📫 Let's Connect
