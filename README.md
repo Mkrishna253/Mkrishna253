@@ -1,17 +1,23 @@
-# 👋 Hi, I'm Krishnanjali Mandhapalle!
+# 👋 Hi, I'm Krishnanjali Mandhapalle, Welcome to My GitHub Profile!
 
-Welcome to my GitHub profile! I'm a passionate Full stack, Data Science enthusiast skilled in **Python**, **Machine Learning**, and **AI-powered applications**. I enjoy turning data into actionable insights and building intelligent systems that solve real-world problems.
+I'm a passionate **Full Stack Developer, Data Engineer, and Data Science enthusiast** with experience in **Python, FastAPI, Data Engineering, Machine Learning, and AI-powered applications**. I enjoy transforming data into actionable insights and building scalable, intelligent systems that solve real-world problems.
 
 ---
 
 ## 🧠 What I Do
 
-- 🐍 Python Programming
-- 📊 Data Science & Machine Learning
-- 🤖 Generative AI & RAG Pipelines
-- 🔎 NLP, Transformers, Embedding Models
-- 🧱 FastAPI | LangChain
-- 💡 Currently building AI-powered apps using **LLMs**, **Vector DBs**, and **Open Source Models**
+- 🐍 **Python Development**
+- ⚡ **FastAPI & Backend Development**
+- 🗄️ **PostgreSQL & SQL Server**
+- 📊 **Data Science & Machine Learning**
+- 🔥 **Apache Spark & PySpark**
+- 🧱 **Databricks & Data Engineering**
+- 🤖 **Generative AI & RAG Pipelines**
+- 🔎 **NLP, Transformers & Embedding Models**
+- 🦜 **LangChain & LLM Applications**
+- 🐳 **Docker & Containerization**
+- 🌿 **Git & GitHub**
+- 💡 Building scalable applications using **LLMs, Vector Databases, Open Source Models, and Modern Data Platforms**
 
 ---
 
@@ -39,6 +45,43 @@ Welcome to my GitHub profile! I'm a passionate Full stack, Data Science enthusia
   <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="70" alt="Neural Network"/>
 </p>
 
+
+### 💻 Languages & Frameworks
+
+- 🐍 **Python**
+- ⚡ **FastAPI**
+- 🗃️ **SQL**
+- 🔥 **PySpark**
+
+### 📊 Data Engineering & Analytics
+
+- 🔥 **Apache Spark**
+- 🧱 **Databricks**
+- 🔄 **ETL / ELT**
+- 📦 **Data Pipelines**
+
+### 🤖 AI & Machine Learning
+
+- 🧠 **Machine Learning**
+- 🤖 **Generative AI**
+- 🔎 **RAG**
+- 📝 **NLP**
+- 🔬 **Transformers**
+- 🧠 **LLMs**
+- 🔢 **Vector Databases**
+- 🦜 **LangChain**
+
+### 🗄️ Databases
+
+- 🐘 **PostgreSQL**
+- 🗄️ **SQL Server**
+
+### 🐳 DevOps & Tools
+
+- 🌿 **Git**
+- 🐙 **GitHub**
+- 🐳 **Docker**
+
 ---
 
 ## 📫 Let's Connect
@@ -48,4 +91,6 @@ Welcome to my GitHub profile! I'm a passionate Full stack, Data Science enthusia
 
 ---
 
-*“Learning is proportional to Growing...” Happy Learning!*
+> *"Learning is proportional to Growing..."* 🚀
+
+**Happy Learning!**
